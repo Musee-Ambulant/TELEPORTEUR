@@ -1,0 +1,13 @@
+{% extends 'main/base.html' %}
+
+{% block title%} Nouvelle École {% endblock %}
+
+{% block content%}
+<h1>Entrer une nouvelle École</h1>
+<form method="post" action="/create/">
+    {% csrf_token %}
+    {{form.as_table}}
+    <button type="submit", name="save">Entrer École</button>
+</form>
+
+{% endblock %}

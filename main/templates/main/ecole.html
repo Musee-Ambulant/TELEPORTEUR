@@ -1,0 +1,52 @@
+{% extends 'main/base.html' %}
+
+{% block title%} Écoles {% endblock %}
+
+{% block content %}
+
+<h1>{{ecole.name}}</h1>
+
+    {% for groupe in ecole.groupe_set.all %}
+        <h3>
+            Groupe de : {{groupe.name}} <br>
+            {{groupe.created_at}}
+
+        </h3>
+
+
+    <form method="post" action="/{{ecole.id}}/{{groupe.id}}">
+    {% csrf_token %}
+    <button type="submit", name="groupe" value="{{groupe}}" ,name="ecole" value="{{ecole}}" >Voir le Groupe de {{groupe.name}}</button>
+    </form>
+
+<br><br>
+        </p>
+    {% endfor %}
+
+<!--    <form method="post" action="/test_fonction/">-->
+<!--    {% csrf_token %}-->
+<!--    <button type="submit", name="ecole" value="{{ecole}}">test_fonction</button>-->
+<!--    </form>-->
+
+<br>
+<h1>Entrer un nouveau groupe à l'école: {{ecole.name}}</h1>
+<form method="post" action="/createG/">
+    {% csrf_token %}
+    {{form.as_p}}
+    <button type="submit", name="ecole" value="{{ecole}}">Ajouter groupe</button>
+</form>
+
+<br><br>
+
+<br><br><br><br><br>
+<p>***Cette action est irréversible***</p>
+<form method="post" action="/confirmEcole/">
+    {% csrf_token %}
+    <button type="submit", name="ecole" value="{{ecole.id}}">Suprimmer l'école</button>
+</form>
+
+
+
+
+
+{% endblock %}
