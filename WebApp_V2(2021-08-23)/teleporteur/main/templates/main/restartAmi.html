@@ -1,0 +1,20 @@
+{% extends 'main/base.html' %}
+
+{% block title%} confirmation {% endblock %}
+
+
+{% block content %}
+
+<h2>Voulez-vous vraiment retirer {{ami.name}} de la liste </h2>
+
+
+<form method="post" action="/restart_ami_delete/">
+    {% csrf_token %}
+    <button type="submit", name="confirm" value="{{ami.id}}">Oui</button>
+    <button type="submit", name="confirm" value="no">Non</button>
+
+</form>
+
+
+
+{% endblock %}

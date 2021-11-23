@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Collage3D_V3",
+			"Path": "C:\\Users\\varse\\_documents\\MuseeAmbulant\\unreal_project\\Collage3D_V3\\Source\\Collage3D_V3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Collage3D_V3Editor",
+			"Path": "C:\\Users\\varse\\_documents\\MuseeAmbulant\\unreal_project\\Collage3D_V3\\Source\\Collage3D_V3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

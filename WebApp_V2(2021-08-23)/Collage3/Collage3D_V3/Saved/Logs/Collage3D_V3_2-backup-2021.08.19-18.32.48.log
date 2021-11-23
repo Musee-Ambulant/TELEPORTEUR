@@ -1,0 +1,1409 @@
+﻿Log file open, 08/19/21 14:32:25
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Collage3D_V3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.219056
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin ScriptPlugin
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin SequencerScripting
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin PythonAutomationTest
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DataprepEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  /Game/Scene00 -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=0 SAVEWINPOS=1 -ResX=1910 -ResY=1006
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Engine.ini]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Engine.ini]
+[2021.08.19-18.32.25:801][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Engine.ini]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Engine.ini]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.19-18.32.25:801][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.19-18.32.25:802][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Engine.ini]
+[2021.08.19-18.32.25:802][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Engine.ini]
+[2021.08.19-18.32.25:845][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.19-18.32.25:845][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.19-18.32.25:846][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.19-18.32.25:846][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.19-18.32.25:846][  0]LogHAL: Display: Platform has ~ 16 GB [16954851328 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.19-18.32.25:846][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.19-18.32.25:846][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.19-18.32.25:846][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.19-18.32.25:847][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Engine.ini]
+[2021.08.19-18.32.25:847][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/musee/Documents/Collage3/Collage3D_V3/Saved/Config/Windows/Editor.ini]
+[2021.08.19-18.32.25:847][  0]LogInit: Computer: LAPTOP-1SAKJI5L
+[2021.08.19-18.32.25:847][  0]LogInit: User: musee
+[2021.08.19-18.32.25:847][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.08.19-18.32.25:847][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.19-18.32.25:848][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.08.19-18.32.25:848][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.19-18.32.25:848][  0]LogMemory: Process Physical Memory: 137.94 MB used, 137.94 MB peak
+[2021.08.19-18.32.25:848][  0]LogMemory: Process Virtual Memory: 121.14 MB used, 121.14 MB peak
+[2021.08.19-18.32.25:848][  0]LogMemory: Physical Memory: 10292.30 MB used,  5877.11 MB free, 16169.41 MB total
+[2021.08.19-18.32.25:848][  0]LogMemory: Virtual Memory: 134212512.00 MB used,  5212.21 MB free, 134217728.00 MB total
+[2021.08.19-18.32.25:876][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.19-18.32.25:916][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.19-18.32.25:916][  0]LogInit: Using OS detected language (en-US).
+[2021.08.19-18.32.25:916][  0]LogInit: Using OS detected locale (en-CA).
+[2021.08.19-18.32.25:920][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.08.19-18.32.26:100][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.19-18.32.26:154][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.19-18.32.26:154][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.19-18.32.26:167][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.19-18.32.26:167][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.19-18.32.26:167][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.19-18.32.26:167][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.19-18.32.26:244][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.08.19-18.32.26:244][  0]LogD3D11RHI:       8031/0/8084 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.19-18.32.26:299][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.08.19-18.32.26:299][  0]LogD3D11RHI:       128/0/8084 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.08.19-18.32.26:301][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.19-18.32.26:301][  0]LogD3D11RHI:       0/0/8084 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.19-18.32.26:301][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.19-18.32.26:306][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.19-18.32.26:307][  0]LogD3D11RHI:     GPU DeviceId: 0x1f14 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.19-18.32.26:307][  0]LogWindows: EnumDisplayDevices:
+[2021.08.19-18.32.26:307][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.19-18.32.26:307][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.19-18.32.26:307][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.08.19-18.32.26:307][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2021.08.19-18.32.26:307][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2021.08.19-18.32.26:307][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.08.19-18.32.26:308][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.08.19-18.32.26:308][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.08.19-18.32.26:308][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.08.19-18.32.26:308][  0]LogD3D11RHI:   Driver Version: 457.63 (internal:27.21.14.5763, unified:457.63)
+[2021.08.19-18.32.26:308][  0]LogD3D11RHI:      Driver Date: 12-8-2020
+[2021.08.19-18.32.26:308][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.08.19-18.32.26:362][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.19-18.32.26:362][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.19-18.32.26:362][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.19-18.32.26:376][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.19-18.32.26:378][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.19-18.32.26:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.19-18.32.26:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.19-18.32.26:644][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.19-18.32.26:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.19-18.32.26:651][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.19-18.32.26:659][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.19-18.32.26:721][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.19-18.32.26:721][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/musee/Documents/Collage3/Collage3D_V3/Intermediate/Shaders/WorkingDirectory/4124/).
+[2021.08.19-18.32.26:721][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/musee/AppData/Local/Temp/UnrealShaderWorkingDir/6EBC85B74DFD31E4AAB499ACEEF56DAC/'.
+[2021.08.19-18.32.26:721][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.19-18.32.26:721][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.19-18.32.27:408][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.19-18.32.27:457][  0]LogDerivedDataCache: Loaded boot cache 0.05s 93MB C:/Users/musee/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.19-18.32.27:457][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/musee/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.19-18.32.27:457][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/musee/Documents/Collage3/Collage3D_V3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.19-18.32.27:457][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.19-18.32.27:457][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/musee/Documents/Collage3/Collage3D_V3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.19-18.32.27:457][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.19-18.32.27:467][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.19-18.32.27:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.19-18.32.27:468][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.19-18.32.27:476][  0]LogDerivedDataCache: Speed tests for C:/Users/musee/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.08.19-18.32.27:476][  0]LogDerivedDataCache: Display: Performance to C:/Users/musee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=897.99MBs, RandomWriteSpeed=135.36MBs. Assigned SpeedClass 'Local'
+[2021.08.19-18.32.27:476][  0]LogDerivedDataCache: Using Local data cache path C:/Users/musee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.19-18.32.27:476][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.19-18.32.27:476][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.19-18.32.27:506][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.19-18.32.27:507][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.19-18.32.27:576][  0]LogInit: Using OS detected language (en-US).
+[2021.08.19-18.32.27:576][  0]LogInit: Using OS detected locale (en-CA).
+[2021.08.19-18.32.27:577][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2021.08.19-18.32.27:577][  0]LogTextLocalizationManager: No localization for 'en-CA' exists, so 'en' will be used for the locale.
+[2021.08.19-18.32.27:577][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.08.19-18.32.27:577][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.08.19-18.32.27:578][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2021.08.19-18.32.27:580][  0]LogAssetRegistry: FAssetRegistry took 0.0014 seconds to start up
+[2021.08.19-18.32.27:718][  0]LogPackageLocalizationCache: Processed 28 localized package path(s) for 1 prioritized culture(s) in 0.001376 seconds
+[2021.08.19-18.32.27:773][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.19-18.32.27:773][  0]LogInit: Active device profile: [000001AC086F7100][000001AC7F8C0A00 49] Windows
+[2021.08.19-18.32.27:773][  0]LogInit: Profiles: [000001AC086F7100][000001AC7F8C0A00 49] Windows, [000001AC086D9100][000001AC02154B80 49] WindowsNoEditor, [000001AC086F5100][000001AC02158D00 49] WindowsServer, [000001AC086DA900][000001AC0215CE80 49] WindowsClient, [000001AC086F6800][000001AC02150FC0 49] IOS, [000001AC086D9A00][000001AC02161100 49] iPadAir, [000001AC086F5900][000001AC02165240 49] iPadAir2, [000001AC08698300][000001AC021714C0 49] IPadPro, [000001AC08698400][000001AC02169500 49] iPadAir3, [000001AC086F7300][000001AC02175680 49] iPadAir4, [000001AC0869AC00][000001AC02179800 49] iPadMini2, [000001AC086F4F00][000001AC0217D980 49] iPadMini3, [000001AC08699F00][000001AC02181B00 49] iPadMini4, [000001AC086F6900][000001AC02185C80 49] iPadMini5, [000001AC08693B00][000001AC0218C280 49] iPhone6, [000001AC08693C00][000001AC021882C0 49] iPodTouch6, [000001AC0869A600][000001AC02194580 49] iPhone7, [000001AC0869A700][000001AC021905C0 49] iPodTouch7, [000001AC08691500][000001AC02198740 49] iPhone5S, [000001AC0869A100][000001AC0219C8C0 49] iPhone6Plus, [000001AC08692400][000001AC021A0A40 49] iPhone6S, [000001AC0869B400][000001AC021A4BC0 49] iPhone6SPlus, [000001AC08691D00][000001AC021A8D40 49] iPhone7Plus, [000001AC0869AF00][000001AC021ACEC0 49] iPhoneSE, [000001AC08692600][000001AC021B1040 49] iPhone8, [000001AC0869BA00][000001AC0216D180 49] iPhone8Plus, [000001AC08691C00][000001AC021B52C0 49] iPhoneX, [000001AC0869B700][000001AC021B9400 49] iPhoneXS, [000001AC08691200][000001AC021C1580 49] iPhoneXSMax, [000001AC08698200][000001AC021C5700 49] iPhoneXR, [000001AC08692500][000001AC021C9880 49] iPhone11, [000001AC0869B000][000001AC021CDA00 49] iPhone11Pro, [000001AC08691100][000001AC021D1B80 49] iPhone11ProMax, [000001AC0869B500][000001AC021D5D00 49] iPhoneSE2, [000001AC08693D00][000001AC021D81C0 49] iPhone12Mini, [000001AC0869B200][000001AC021DC340 49] iPhone12, [000001AC08691800][000001AC021E04C0 49] iPhone12Pro, [000001AC08699D00][000001AC021E4640 49] iPhone12ProMax, [000001AC08692800][000001AC021E87C0 49] iPadPro105, [000001AC08699100][000001AC021EC940 49] iPadPro129, [000001AC08693A00][000001AC021F0AC0 49] iPadPro97, [000001AC0869A800][000001AC021F4C40 49] iPadPro2_129, [000001AC08692D00][000001AC021F8DC0 49] iPad5, [000001AC0869A000][000001AC021FCF40 49] iPad6, [000001AC08690600][000001AC022010C0 49] iPad7, [000001AC08699400][000001AC021BD200 49] iPad8, [000001AC08693100][000001AC02205340 49] iPadPro11, [000001AC0869BD00][000001AC02209480 49] iPadPro2_11, [000001AC08690E00][000001AC7ABC9600 49] iPadPro3_129, [000001AC0869B100][000001AC7ABCD780 49] iPadPro4_129, [000001AC08693E00][000001AC7ABD1900 49] AppleTV, [000001AC08699600][000001AC7ABD5A80 49] AppleTV4K, [000001AC08693F00][000001AC7ABD9C00 49] TVOS, [000001AC08698100][000001AC7ABDC0C0 49] Mac, [000001AC08692700][000001AC7ABE0240 49] MacClient, [000001AC08699500][000001AC7ABE43C0 49] MacNoEditor, [000001AC08693700][000001AC7ABE8540 49] MacServer, [000001AC0869B300][000001AC7ABEC6C0 49] Linux, [000001AC086D8900][000001AC7ABF0840 49] LinuxAArch64, [000001AC08769000][000001AC7F4D09C0 49] LinuxNoEditor, [000001AC086DBD00][000001AC7F4D4B40 49] LinuxAArch64NoEditor, [000001AC08769200][000001AC7F4D8CC0 49] LinuxClient, [000001AC086D8A00][000001AC7F4DCE40 49] LinuxAArch64Client, [000001AC08768600][000001AC7F4E0FC0 49] LinuxServer, [000001AC086D8500][000001AC7F4E5140 49] LinuxAArch64Server, [000001AC08768900][000001AC0220D280 49] Android, [000001AC086D9700][000001AC7F4E93C0 49] Android_Low, [000001AC08769700][000001AC7F4ED500 49] Android_Mid, [000001AC086DB800][000001AC7F4F1640 49] Android_High, [000001AC08768100][000001AC7F4F97C0 49] Android_Default, [000001AC086DA500][000001AC7F4FD940 49] Android_Adreno4xx, [000001AC08769400][000001AC7F501AC0 49] Android_Adreno5xx_Low, [000001AC086DA000][000001AC7F505C40 49] Android_Adreno5xx, [000001AC08768C00][000001AC7F508100 49] Android_Adreno6xx, [000001AC086D9F00][000001AC7F50C280 49] Android_Adreno6xx_Vulkan, [000001AC08768D00][000001AC7F510400 49] Android_Mali_T6xx, [000001AC086DBB00][000001AC7F514580 49] Android_Mali_T7xx, [000001AC08698600][000001AC7F518700 49] Android_Mali_T8xx, [000001AC086D8600][000001AC7F51C880 49] Android_Mali_G71, [000001AC08699900][000001AC7F520A00 49] Android_Mali_G72, [000001AC086DB400][000001AC7F524B80 49] Android_Mali_G72_Vulkan, [000001AC0869AD00][000001AC7F528D00 49] Android_Mali_G76, [000001AC086D9500][000001AC7F52CE80 49] Android_Mali_G76_Vulkan, [000001AC0869B900][000001AC7F531000 49] Android_Mali_G77, [000001AC086D9900][000001AC7F535180 49] Android_Mali_G77_Vulkan, [000001AC08698E00][000001AC7F4F52C0 49] Android_Vulkan_SM5, [000001AC086D8B00][000001AC7F539400 49] Android_PowerVR_G6xxx, [000001AC08699A00][000001AC7F53D540 49] Android_PowerVR_GT7xxx, [000001AC086D8700][000001AC7F541680 49] Android_PowerVR_GE8xxx, [000001AC08699800][000001AC7F549800 49] Android_PowerVR_GM9xxx, [000001AC086DBC00][000001AC7F54D980 49] Android_PowerVR_GM9xxx_Vulkan, [000001AC08698D00][000001AC7F551B00 49] Android_TegraK1, [000001AC086DBF00][000001AC7F555C80 49] Android_Unknown_Vulkan, [000001AC0869A900][000001AC7F558140 49] Lumin, [000001AC086DA800][000001AC7F55C2C0 49] Lumin_Desktop, [000001AC08699B00][000001AC7F560440 49] HoloLens, 
+[2021.08.19-18.32.27:810][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.19-18.32.27:810][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.19-18.32.27:810][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.19-18.32.27:810][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.19-18.32.27:810][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.19-18.32.27:919][  0]LogNetVersion: Collage3D_V3 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2477730558)
+[2021.08.19-18.32.28:167][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.19-18.32.28:270][  0]LogMoviePlayer: Initializing movie player
+[2021.08.19-18.32.28:455][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.19-18.32.28:464][  0]LogPython: Using Python 3.7.7
+[2021.08.19-18.32.29:099][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.19-18.32.29:163][  0]SourceControl: Source control is disabled
+[2021.08.19-18.32.29:164][  0]SourceControl: Source control is disabled
+[2021.08.19-18.32.29:166][  0]SourceControl: Source control is disabled
+[2021.08.19-18.32.29:200][  0]LogUProjectInfo: Found projects:
+[2021.08.19-18.32.29:208][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.19-18.32.29:209][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.19-18.32.29:338][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.19-18.32.29:382][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.19-18.32.29:382][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.19-18.32.29:475][  0]LogOcInput: OculusInput pre-init called
+[2021.08.19-18.32.29:486][  0]LogUObjectArray: 21632 objects as part of root set at end of initial load.
+[2021.08.19-18.32.29:486][  0]LogUObjectAllocator: 5821184 out of 0 bytes used by permanent object pool.
+[2021.08.19-18.32.29:486][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.19-18.32.29:534][  0]LogEngine: Initializing Engine...
+[2021.08.19-18.32.29:537][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.19-18.32.29:537][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.19-18.32.29:538][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.19-18.32.29:626][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.19-18.32.29:626][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.19-18.32.29:630][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.19-18.32.29:630][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.19-18.32.29:630][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.19-18.32.29:630][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.19-18.32.29:630][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.19-18.32.29:630][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.19-18.32.29:630][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.19-18.32.29:630][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.19-18.32.29:630][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.19-18.32.29:630][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.19-18.32.29:630][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.19-18.32.29:630][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.19-18.32.29:842][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.19-18.32.29:842][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.19-18.32.29:859][  0]LogAudioMixer: Display: Using Audio Device BenQ GW2780 (NVIDIA High Definition Audio)
+[2021.08.19-18.32.29:861][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.19-18.32.29:862][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.19-18.32.29:862][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.19-18.32.29:863][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.19-18.32.29:863][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.19-18.32.29:863][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.19-18.32.29:864][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.19-18.32.29:864][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.19-18.32.29:864][  0]LogInit: FAudioDevice initialized.
+[2021.08.19-18.32.29:865][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.19-18.32.29:865][  0]LogInit: Texture streaming: Enabled
+[2021.08.19-18.32.29:912][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.19-18.32.29:912][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-18.32.29:914][  0]LogInit: Display: Game Engine Initialized.
+[2021.08.19-18.32.29:914][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2021.08.19-18.32.29:977][  0]LogInit: Display: Starting Game.
+[2021.08.19-18.32.29:977][  0]LogNet: Browse: /Game/Scene00?Name=Player
+[2021.08.19-18.32.29:978][  0]LogLoad: LoadMap: /Game/Scene00?Name=Player
+[2021.08.19-18.32.29:978][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.08.19-18.32.29:979][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-18.32.29:979][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-18.32.29:983][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-18.32.29:985][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.08.19-18.32.30:302][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_XLT.uasset: Failed to load '/Game/transit/Emblem_chrome': Can't find file.
+[2021.08.19-18.32.30:302][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_XLT.uasset: Failed to load '/Game/transit/Emblem_chrome': Can't find file.
+[2021.08.19-18.32.30:303][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Wheel_Base.uasset: Failed to load '/Game/transit/wheel_base': Can't find file.
+[2021.08.19-18.32.30:303][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Wheel_Base.uasset: Failed to load '/Game/transit/wheel_base': Can't find file.
+[2021.08.19-18.32.30:304][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Washer_Nozzel.uasset: Failed to load '/Game/transit/washer_nozzle': Can't find file.
+[2021.08.19-18.32.30:304][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Washer_Nozzel.uasset: Failed to load '/Game/transit/washer_nozzle': Can't find file.
+[2021.08.19-18.32.30:305][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Third_Brake_Light.uasset: Failed to load '/Game/transit/red_bulb_tail_light': Can't find file.
+[2021.08.19-18.32.30:305][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Third_Brake_Light.uasset: Failed to load '/Game/transit/third_brake_body': Can't find file.
+[2021.08.19-18.32.30:306][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Third_Brake_Light.uasset: Failed to load '/Game/transit/red_bulb_tail_light': Can't find file.
+[2021.08.19-18.32.30:306][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Third_Brake_Light.uasset: Failed to load '/Game/transit/third_brake_body': Can't find file.
+[2021.08.19-18.32.30:307][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Temperature_Control.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:307][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Temperature_Control.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:308][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Tali_Light_Glass.uasset: Failed to load '/Game/transit/tail_light_glass': Can't find file.
+[2021.08.19-18.32.30:308][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Tali_Light_Glass.uasset: Failed to load '/Game/transit/tail_light_glass': Can't find file.
+[2021.08.19-18.32.30:309][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Tail_Light.uasset: Failed to load '/Game/transit/red_tail_light_reflector': Can't find file.
+[2021.08.19-18.32.30:309][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Tail_Light.uasset: Failed to load '/Game/transit/white_tail_light_reflector': Can't find file.
+[2021.08.19-18.32.30:309][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Tail_Light.uasset: Failed to load '/Game/transit/red_tail_light_reflector': Can't find file.
+[2021.08.19-18.32.30:310][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Tail_Light.uasset: Failed to load '/Game/transit/white_tail_light_reflector': Can't find file.
+[2021.08.19-18.32.30:310][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Steering_Panel.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:310][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Steering_Panel.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:311][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Steering.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:311][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Steering.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:312][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Small_Parts.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:312][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Small_Parts.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:312][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Small_Parts.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:313][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Small_Parts.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:313][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_door_right.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:313][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_door_right.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:314][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_door_right.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:314][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_door_right.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:314][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_Door_Panel_left.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:315][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_Door_Panel_left.uasset: Failed to load '/Game/transit/rubber': Can't find file.
+[2021.08.19-18.32.30:315][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_Door_Panel_left.uasset: Failed to load '/Game/transit/side_door_panel': Can't find file.
+[2021.08.19-18.32.30:315][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_Door_Panel_left.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:316][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_Door_Panel_left.uasset: Failed to load '/Game/transit/rubber': Can't find file.
+[2021.08.19-18.32.30:316][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_Door_Panel_left.uasset: Failed to load '/Game/transit/side_door_panel': Can't find file.
+[2021.08.19-18.32.30:316][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_Door_Panel.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:317][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_Door_Panel.uasset: Failed to load '/Game/transit/rubber': Can't find file.
+[2021.08.19-18.32.30:317][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_Door_Panel.uasset: Failed to load '/Game/transit/side_door_panel': Can't find file.
+[2021.08.19-18.32.30:317][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_Door_Panel.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:317][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_Door_Panel.uasset: Failed to load '/Game/transit/rubber': Can't find file.
+[2021.08.19-18.32.30:318][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_Door_Panel.uasset: Failed to load '/Game/transit/side_door_panel': Can't find file.
+[2021.08.19-18.32.30:318][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_door_left.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:318][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_door_left.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:319][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_door_left.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:319][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding_door_left.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:319][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding.uasset: Failed to load '/Game/transit/sliding_door': Can't find file.
+[2021.08.19-18.32.30:320][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Sliding.uasset: Failed to load '/Game/transit/sliding_door': Can't find file.
+[2021.08.19-18.32.30:320][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Signal_Bulb.uasset: Failed to load '/Game/transit/Front_Lamp': Can't find file.
+[2021.08.19-18.32.30:321][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Signal_Bulb.uasset: Failed to load '/Game/transit/Front_Lamp': Can't find file.
+[2021.08.19-18.32.30:321][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Signal2.uasset: Failed to load '/Game/transit/signal_glass': Can't find file.
+[2021.08.19-18.32.30:321][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Signal2.uasset: Failed to load '/Game/transit/signal_glass': Can't find file.
+[2021.08.19-18.32.30:322][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Signal1.uasset: Failed to load '/Game/transit/side_signal_reflector': Can't find file.
+[2021.08.19-18.32.30:322][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Signal1.uasset: Failed to load '/Game/transit/side_signal_glass': Can't find file.
+[2021.08.19-18.32.30:323][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Signal1.uasset: Failed to load '/Game/transit/side_signal_reflector': Can't find file.
+[2021.08.19-18.32.30:323][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Signal1.uasset: Failed to load '/Game/transit/side_signal_glass': Can't find file.
+[2021.08.19-18.32.30:323][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Side_mirror_right.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:324][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Side_mirror_right.uasset: Failed to load '/Game/transit/mirror': Can't find file.
+[2021.08.19-18.32.30:324][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Side_mirror_right.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:325][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Side_mirror_right.uasset: Failed to load '/Game/transit/mirror': Can't find file.
+[2021.08.19-18.32.30:325][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Side_mirror_left.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:325][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Side_mirror_left.uasset: Failed to load '/Game/transit/mirror': Can't find file.
+[2021.08.19-18.32.30:326][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Side_mirror_left.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:326][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Side_mirror_left.uasset: Failed to load '/Game/transit/mirror': Can't find file.
+[2021.08.19-18.32.30:326][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Roof_Aerial.uasset: Failed to load '/Game/transit/arieal': Can't find file.
+[2021.08.19-18.32.30:327][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Roof_Aerial.uasset: Failed to load '/Game/transit/arieal': Can't find file.
+[2021.08.19-18.32.30:327][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Red_Light.uasset: Failed to load '/Game/transit/reflec_light': Can't find file.
+[2021.08.19-18.32.30:328][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Red_Light.uasset: Failed to load '/Game/transit/reflec_light': Can't find file.
+[2021.08.19-18.32.30:328][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_window_right.uasset: Failed to load '/Game/transit/wind_shield': Can't find file.
+[2021.08.19-18.32.30:329][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_window_right.uasset: Failed to load '/Game/transit/window_glass': Can't find file.
+[2021.08.19-18.32.30:329][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_window_right.uasset: Failed to load '/Game/transit/wind_shield': Can't find file.
+[2021.08.19-18.32.30:329][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_window_right.uasset: Failed to load '/Game/transit/window_glass': Can't find file.
+[2021.08.19-18.32.30:330][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_window_left.uasset: Failed to load '/Game/transit/wind_shield': Can't find file.
+[2021.08.19-18.32.30:330][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_window_left.uasset: Failed to load '/Game/transit/window_glass': Can't find file.
+[2021.08.19-18.32.30:330][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_window_left.uasset: Failed to load '/Game/transit/wind_shield': Can't find file.
+[2021.08.19-18.32.30:330][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_window_left.uasset: Failed to load '/Game/transit/window_glass': Can't find file.
+[2021.08.19-18.32.30:331][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_tire_tread_right.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:331][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_tire_tread_right.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:332][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_tire_tread_left.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:332][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_tire_tread_left.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:332][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_tire_left_right.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:333][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_tire_left_right.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:333][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_tire_left.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:333][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_tire_left.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:334][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_standard_rim_right.uasset: Failed to load '/Game/transit/standard_rim': Can't find file.
+[2021.08.19-18.32.30:334][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_standard_rim_right.uasset: Failed to load '/Game/transit/standard_rim': Can't find file.
+[2021.08.19-18.32.30:335][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_standard_rim_left.uasset: Failed to load '/Game/transit/standard_rim': Can't find file.
+[2021.08.19-18.32.30:335][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_standard_rim_left.uasset: Failed to load '/Game/transit/standard_rim': Can't find file.
+[2021.08.19-18.32.30:335][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_Seat.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:336][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_Seat.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:336][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_ignition_barrel.uasset: Failed to load '/Game/transit/ignition': Can't find file.
+[2021.08.19-18.32.30:337][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_ignition_barrel.uasset: Failed to load '/Game/transit/chrome': Can't find file.
+[2021.08.19-18.32.30:337][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_ignition_barrel.uasset: Failed to load '/Game/transit/ignition': Can't find file.
+[2021.08.19-18.32.30:337][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_ignition_barrel.uasset: Failed to load '/Game/transit/chrome': Can't find file.
+[2021.08.19-18.32.30:337][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_right.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:338][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_right.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:338][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_panel_right.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:339][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_panel_right.uasset: Failed to load '/Game/transit/Interior_ncl1_1': Can't find file.
+[2021.08.19-18.32.30:339][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_panel_right.uasset: Failed to load '/Game/transit/Body_ncl1_7': Can't find file.
+[2021.08.19-18.32.30:339][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_panel_right.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:339][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_panel_right.uasset: Failed to load '/Game/transit/Interior_ncl1_1': Can't find file.
+[2021.08.19-18.32.30:340][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_panel_right.uasset: Failed to load '/Game/transit/Body_ncl1_7': Can't find file.
+[2021.08.19-18.32.30:340][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_panel_left.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:341][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_panel_left.uasset: Failed to load '/Game/transit/Interior_ncl1_2': Can't find file.
+[2021.08.19-18.32.30:341][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_panel_left.uasset: Failed to load '/Game/transit/Body_ncl1_9': Can't find file.
+[2021.08.19-18.32.30:341][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_panel_left.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:342][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_panel_left.uasset: Failed to load '/Game/transit/Interior_ncl1_2': Can't find file.
+[2021.08.19-18.32.30:342][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_panel_left.uasset: Failed to load '/Game/transit/Body_ncl1_9': Can't find file.
+[2021.08.19-18.32.30:342][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_left.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:343][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_left.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:343][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_handle.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:343][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_door_handle.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:344][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_cover_rim_right.uasset: Failed to load '/Game/transit/cover_rim': Can't find file.
+[2021.08.19-18.32.30:344][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_cover_rim_right.uasset: Failed to load '/Game/transit/cover_rim': Can't find file.
+[2021.08.19-18.32.30:345][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_cover_rim_left.uasset: Failed to load '/Game/transit/cover_rim': Can't find file.
+[2021.08.19-18.32.30:345][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_rear_cover_rim_left.uasset: Failed to load '/Game/transit/cover_rim': Can't find file.
+[2021.08.19-18.32.30:345][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_Bulb.uasset: Failed to load '/Game/transit/red_bulb_tail_light': Can't find file.
+[2021.08.19-18.32.30:346][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_Bulb.uasset: Failed to load '/Game/transit/signal_bulb_tail_light': Can't find file.
+[2021.08.19-18.32.30:346][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_Bulb.uasset: Failed to load '/Game/transit/reverse_light': Can't find file.
+[2021.08.19-18.32.30:347][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_Bulb.uasset: Failed to load '/Game/transit/red_bulb_tail_light': Can't find file.
+[2021.08.19-18.32.30:347][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_Bulb.uasset: Failed to load '/Game/transit/signal_bulb_tail_light': Can't find file.
+[2021.08.19-18.32.30:347][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Rear_Bulb.uasset: Failed to load '/Game/transit/reverse_light': Can't find file.
+[2021.08.19-18.32.30:348][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Object002.uasset: Failed to load '/Game/transit/Body_ncl1_1': Can't find file.
+[2021.08.19-18.32.30:348][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Object002.uasset: Failed to load '/Game/transit/Body_ncl1_1': Can't find file.
+[2021.08.19-18.32.30:348][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Navigation_Buttons.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:349][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Navigation_Buttons.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:349][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Meter.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:349][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Meter.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:350][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Lamp_For_No_Plat.uasset: Failed to load '/Game/transit/Body_ncl1_10': Can't find file.
+[2021.08.19-18.32.30:350][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Lamp_For_No_Plat.uasset: Failed to load '/Game/transit/Body_ncl1_10': Can't find file.
+[2021.08.19-18.32.30:350][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Interior_Panel3.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:351][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Interior_Panel3.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:351][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Interior_Panel2.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:351][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Interior_Panel2.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:352][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Interior_Panel1.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:352][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Interior_Panel1.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:352][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_tank.uasset: Failed to load '/Game/transit/chrome': Can't find file.
+[2021.08.19-18.32.30:353][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_tank.uasset: Failed to load '/Game/transit/chrome': Can't find file.
+[2021.08.19-18.32.30:353][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_right_1.uasset: Failed to load '/Game/transit/ignition': Can't find file.
+[2021.08.19-18.32.30:353][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_right_1.uasset: Failed to load '/Game/transit/ignition': Can't find file.
+[2021.08.19-18.32.30:354][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_right.uasset: Failed to load '/Game/transit/ignition': Can't find file.
+[2021.08.19-18.32.30:354][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_right.uasset: Failed to load '/Game/transit/chrome': Can't find file.
+[2021.08.19-18.32.30:354][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_right.uasset: Failed to load '/Game/transit/ignition': Can't find file.
+[2021.08.19-18.32.30:355][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_right.uasset: Failed to load '/Game/transit/chrome': Can't find file.
+[2021.08.19-18.32.30:355][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_left_1.uasset: Failed to load '/Game/transit/ignition': Can't find file.
+[2021.08.19-18.32.30:355][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_left_1.uasset: Failed to load '/Game/transit/chrome': Can't find file.
+[2021.08.19-18.32.30:355][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_left_1.uasset: Failed to load '/Game/transit/ignition': Can't find file.
+[2021.08.19-18.32.30:356][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_left_1.uasset: Failed to load '/Game/transit/chrome': Can't find file.
+[2021.08.19-18.32.30:356][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_left.uasset: Failed to load '/Game/transit/ignition': Can't find file.
+[2021.08.19-18.32.30:356][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Ignition_barrel_left.uasset: Failed to load '/Game/transit/ignition': Can't find file.
+[2021.08.19-18.32.30:357][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Hinge_Door.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:357][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Hinge_Door.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:357][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Hinge_Door.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:358][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Hinge_Door.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:358][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Headlight_Glass.uasset: Failed to load '/Game/transit/front_light_glass': Can't find file.
+[2021.08.19-18.32.30:358][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Headlight_Glass.uasset: Failed to load '/Game/transit/front_light_glass': Can't find file.
+[2021.08.19-18.32.30:359][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Headlight.uasset: Failed to load '/Game/transit/front_light': Can't find file.
+[2021.08.19-18.32.30:359][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Headlight.uasset: Failed to load '/Game/transit/front_light': Can't find file.
+[2021.08.19-18.32.30:360][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Handbrake.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:360][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Handbrake.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:361][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Grille2.uasset: Failed to load '/Game/transit/lower_grill': Can't find file.
+[2021.08.19-18.32.30:361][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Grille2.uasset: Failed to load '/Game/transit/backdrop_grill': Can't find file.
+[2021.08.19-18.32.30:361][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Grille2.uasset: Failed to load '/Game/transit/lower_grill': Can't find file.
+[2021.08.19-18.32.30:361][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Grille2.uasset: Failed to load '/Game/transit/backdrop_grill': Can't find file.
+[2021.08.19-18.32.30:362][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Grille1.uasset: Failed to load '/Game/transit/backdrop_grill': Can't find file.
+[2021.08.19-18.32.30:362][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Grille1.uasset: Failed to load '/Game/transit/grill': Can't find file.
+[2021.08.19-18.32.30:362][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Grille1.uasset: Failed to load '/Game/transit/backdrop_grill': Can't find file.
+[2021.08.19-18.32.30:363][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Grille1.uasset: Failed to load '/Game/transit/grill': Can't find file.
+[2021.08.19-18.32.30:363][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Gear.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:363][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Gear.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:364][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_wiper.uasset: Failed to load '/Game/transit/Wiper_ncl1_1': Can't find file.
+[2021.08.19-18.32.30:364][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_wiper.uasset: Failed to load '/Game/transit/Wiper_ncl1_1': Can't find file.
+[2021.08.19-18.32.30:364][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_tire_tread_right.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:365][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_tire_tread_right.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:365][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_tire_tread_left.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:365][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_tire_tread_left.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:366][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_tire_right.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:366][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_tire_right.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:366][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_tire_left.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:366][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_tire_left.uasset: Failed to load '/Game/transit/tire': Can't find file.
+[2021.08.19-18.32.30:367][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_standard_rim_right.uasset: Failed to load '/Game/transit/standard_rim': Can't find file.
+[2021.08.19-18.32.30:367][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_standard_rim_right.uasset: Failed to load '/Game/transit/standard_rim': Can't find file.
+[2021.08.19-18.32.30:368][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_standard_rim_left.uasset: Failed to load '/Game/transit/Wheel': Can't find file.
+[2021.08.19-18.32.30:368][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_standard_rim_left.uasset: Failed to load '/Game/transit/Wheel': Can't find file.
+[2021.08.19-18.32.30:368][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_Seat.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:368][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_Seat.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:369][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_door_right.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:369][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_door_right.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:369][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_door_right.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:370][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_door_right.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:370][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_Door_Panel_left.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:370][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_Door_Panel_left.uasset: Failed to load '/Game/transit/side_door_panel': Can't find file.
+[2021.08.19-18.32.30:370][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_Door_Panel_left.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:371][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_Door_Panel_left.uasset: Failed to load '/Game/transit/side_door_panel': Can't find file.
+[2021.08.19-18.32.30:371][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_Door_Panel.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:371][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_Door_Panel.uasset: Failed to load '/Game/transit/side_door_panel': Can't find file.
+[2021.08.19-18.32.30:372][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_Door_Panel.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:372][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_Door_Panel.uasset: Failed to load '/Game/transit/side_door_panel': Can't find file.
+[2021.08.19-18.32.30:372][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_door_left.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:372][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_door_left.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:373][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_door_left.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:373][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Front_door_left.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:373][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_cover_rim_right.uasset: Failed to load '/Game/transit/cover_rim': Can't find file.
+[2021.08.19-18.32.30:374][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_cover_rim_right.uasset: Failed to load '/Game/transit/cover_rim': Can't find file.
+[2021.08.19-18.32.30:374][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_cover_rim_left.uasset: Failed to load '/Game/transit/cover_rim': Can't find file.
+[2021.08.19-18.32.30:374][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_front_cover_rim_left.uasset: Failed to load '/Game/transit/cover_rim': Can't find file.
+[2021.08.19-18.32.30:375][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Floor.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:375][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Floor.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:376][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Exhaust.uasset: Failed to load '/Game/transit/Body_ncl1_2': Can't find file.
+[2021.08.19-18.32.30:376][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Exhaust.uasset: Failed to load '/Game/transit/Body_ncl1_2': Can't find file.
+[2021.08.19-18.32.30:376][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Door_handle_right_1.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:377][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Door_handle_right_1.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:377][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Door_handle_right.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:377][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Door_handle_right.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:378][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Door_handle_left_1.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:378][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Door_handle_left_1.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:378][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Door_handle_left.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:378][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Door_handle_left.uasset: Failed to load '/Game/transit/body_side_mirror': Can't find file.
+[2021.08.19-18.32.30:379][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Dashboard.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:379][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Dashboard.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:380][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Bulb_Signal_Headlight.uasset: Failed to load '/Game/transit/signal_bulb': Can't find file.
+[2021.08.19-18.32.30:380][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Bulb_Signal_Headlight.uasset: Failed to load '/Game/transit/headlight_bulb_body': Can't find file.
+[2021.08.19-18.32.30:380][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Bulb_Signal_Headlight.uasset: Failed to load '/Game/transit/signal_bulb': Can't find file.
+[2021.08.19-18.32.30:380][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Bulb_Signal_Headlight.uasset: Failed to load '/Game/transit/headlight_bulb_body': Can't find file.
+[2021.08.19-18.32.30:381][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Bulb_Headlight.uasset: Failed to load '/Game/transit/front_light': Can't find file.
+[2021.08.19-18.32.30:381][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Bulb_Headlight.uasset: Failed to load '/Game/transit/headlight_bulb_body': Can't find file.
+[2021.08.19-18.32.30:381][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Bulb_Headlight.uasset: Failed to load '/Game/transit/headlight_bulb': Can't find file.
+[2021.08.19-18.32.30:382][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Bulb_Headlight.uasset: Failed to load '/Game/transit/front_light': Can't find file.
+[2021.08.19-18.32.30:382][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Bulb_Headlight.uasset: Failed to load '/Game/transit/headlight_bulb_body': Can't find file.
+[2021.08.19-18.32.30:382][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Bulb_Headlight.uasset: Failed to load '/Game/transit/headlight_bulb': Can't find file.
+[2021.08.19-18.32.30:382][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Body.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:383][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Body.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:383][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Body.uasset: Failed to load '/Game/transit/signal_reflector': Can't find file.
+[2021.08.19-18.32.30:384][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Body.uasset: Failed to load '/Game/transit/wheel_base': Can't find file.
+[2021.08.19-18.32.30:384][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Body.uasset: Failed to load '/Game/transit/fog_side': Can't find file.
+[2021.08.19-18.32.30:384][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Body.uasset: Failed to load '/Game/transit/rubber': Can't find file.
+[2021.08.19-18.32.30:384][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Body.uasset: Failed to load '/Game/transit/body': Can't find file.
+[2021.08.19-18.32.30:385][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Body.uasset: Failed to load '/Game/transit/wheel_arch_Side_door_moulding': Can't find file.
+[2021.08.19-18.32.30:385][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Body.uasset: Failed to load '/Game/transit/signal_reflector': Can't find file.
+[2021.08.19-18.32.30:385][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Body.uasset: Failed to load '/Game/transit/wheel_base': Can't find file.
+[2021.08.19-18.32.30:385][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Body.uasset: Failed to load '/Game/transit/fog_side': Can't find file.
+[2021.08.19-18.32.30:386][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Body.uasset: Failed to load '/Game/transit/rubber': Can't find file.
+[2021.08.19-18.32.30:386][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Back_Mirror.uasset: Failed to load '/Game/transit/mirror': Can't find file.
+[2021.08.19-18.32.30:386][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Back_Mirror.uasset: Failed to load '/Game/transit/back_mirror': Can't find file.
+[2021.08.19-18.32.30:387][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Back_Mirror.uasset: Failed to load '/Game/transit/mirror': Can't find file.
+[2021.08.19-18.32.30:387][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Back_Mirror.uasset: Failed to load '/Game/transit/back_mirror': Can't find file.
+[2021.08.19-18.32.30:387][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Audio.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:388][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Audio.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:388][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Air_Vents.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:388][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Air_Vents.uasset: Failed to load '/Game/transit/interior': Can't find file.
+[2021.08.19-18.32.30:403][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Wiper_rear_right.uasset: Failed to load '/Game/transit/Wiper_ncl1_2': Can't find file.
+[2021.08.19-18.32.30:403][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Wiper_rear_right.uasset: Failed to load '/Game/transit/Material__1249': Can't find file.
+[2021.08.19-18.32.30:403][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Wiper_rear_right.uasset: Failed to load '/Game/transit/Wiper_ncl1_2': Can't find file.
+[2021.08.19-18.32.30:404][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Wiper_rear_right.uasset: Failed to load '/Game/transit/Material__1249': Can't find file.
+[2021.08.19-18.32.30:404][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Wiper_rear_left.uasset: Failed to load '/Game/transit/Wiper_ncl1_3': Can't find file.
+[2021.08.19-18.32.30:404][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Wiper_rear_left.uasset: Failed to load '/Game/transit/Material__1249': Can't find file.
+[2021.08.19-18.32.30:405][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Wiper_rear_left.uasset: Failed to load '/Game/transit/Wiper_ncl1_3': Can't find file.
+[2021.08.19-18.32.30:405][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Wiper_rear_left.uasset: Failed to load '/Game/transit/Material__1249': Can't find file.
+[2021.08.19-18.32.30:405][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Wiper_Place.uasset: Failed to load '/Game/transit/wiper_place': Can't find file.
+[2021.08.19-18.32.30:406][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Wiper_Place.uasset: Failed to load '/Game/transit/wiper_place': Can't find file.
+[2021.08.19-18.32.30:406][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Window2_right.uasset: Failed to load '/Game/transit/wind_shield': Can't find file.
+[2021.08.19-18.32.30:406][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Window2_right.uasset: Failed to load '/Game/transit/window_glass': Can't find file.
+[2021.08.19-18.32.30:407][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Window2_right.uasset: Failed to load '/Game/transit/wind_shield': Can't find file.
+[2021.08.19-18.32.30:407][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Window2_right.uasset: Failed to load '/Game/transit/window_glass': Can't find file.
+[2021.08.19-18.32.30:407][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Window1.uasset: Failed to load '/Game/transit/wind_shield': Can't find file.
+[2021.08.19-18.32.30:407][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Window1.uasset: Failed to load '/Game/transit/window_glass': Can't find file.
+[2021.08.19-18.32.30:408][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Window1.uasset: Failed to load '/Game/transit/wind_shield': Can't find file.
+[2021.08.19-18.32.30:408][  0]LogUObjectGlobals: Warning: [AssetLog] C:\Users\musee\Documents\Collage3\Collage3D_V3\Content\Import\Props\transit\Ford_Transit_Connect_XLT_Cargo_Med_Poly_Window1.uasset: Failed to load '/Game/transit/window_glass': Can't find file.
+[2021.08.19-18.32.30:751][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCube36.guitar_pCube36.
+[2021.08.19-18.32.30:751][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCube36.guitar_pCube36:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:753][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCube42.guitar_pCube42.
+[2021.08.19-18.32.30:753][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCube42.guitar_pCube42:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:753][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCube43.guitar_pCube43.
+[2021.08.19-18.32.30:753][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCube43.guitar_pCube43:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:760][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder11.guitar_pCylinder11.
+[2021.08.19-18.32.30:760][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder11.guitar_pCylinder11:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:760][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder12.guitar_pCylinder12.
+[2021.08.19-18.32.30:760][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder12.guitar_pCylinder12:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:761][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder13.guitar_pCylinder13.
+[2021.08.19-18.32.30:761][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder13.guitar_pCylinder13:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:762][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder15.guitar_pCylinder15.
+[2021.08.19-18.32.30:762][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder15.guitar_pCylinder15:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:762][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder17.guitar_pCylinder17.
+[2021.08.19-18.32.30:762][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder17.guitar_pCylinder17:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:763][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder19.guitar_pCylinder19.
+[2021.08.19-18.32.30:763][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder19.guitar_pCylinder19:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:763][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder1.guitar_pCylinder1.
+[2021.08.19-18.32.30:763][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder1.guitar_pCylinder1:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:763][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder26.guitar_pCylinder26.
+[2021.08.19-18.32.30:764][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder26.guitar_pCylinder26:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:764][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder27.guitar_pCylinder27.
+[2021.08.19-18.32.30:764][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder27.guitar_pCylinder27:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:764][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder28.guitar_pCylinder28.
+[2021.08.19-18.32.30:764][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder28.guitar_pCylinder28:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:765][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder29.guitar_pCylinder29.
+[2021.08.19-18.32.30:765][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder29.guitar_pCylinder29:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:765][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder30.guitar_pCylinder30.
+[2021.08.19-18.32.30:765][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder30.guitar_pCylinder30:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:765][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder31.guitar_pCylinder31.
+[2021.08.19-18.32.30:765][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder31.guitar_pCylinder31:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:766][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder32.guitar_pCylinder32.
+[2021.08.19-18.32.30:766][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder32.guitar_pCylinder32:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:766][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder7.guitar_pCylinder7.
+[2021.08.19-18.32.30:766][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder7.guitar_pCylinder7:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:767][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Import/Props/Guitar/guitar_pCylinder9.guitar_pCylinder9.
+[2021.08.19-18.32.30:767][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Import/Props/Guitar/guitar_pCylinder9.guitar_pCylinder9:BodySetup_0 when we are unable to.
+[2021.08.19-18.32.30:889][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Scene00'.
+[2021.08.19-18.32.30:898][  0]LogAIModule: Creating AISystem for world Scene00
+[2021.08.19-18.32.30:902][  0]LogLoad: Game class is 'BP_MyCollage3D_V3GameModeBase_C'
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:904][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:905][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:905][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:905][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:905][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:905][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:905][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:905][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:905][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:905][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:938][  0]LogWorld: Bringing World /Game/Scene00.Scene00 up for play (max tick rate 0) at 2021.08.19-14.32.30
+[2021.08.19-18.32.30:939][  0]LogWorld: Bringing up level for play took: 0.036293
+[2021.08.19-18.32.30:945][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:945][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:945][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:945][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:945][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:945][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:945][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:945][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:946][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.30:947][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.08.19-18.32.30:948][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.08.19-18.32.31:065][  0]LogLoad: Took 1.087063 seconds to LoadMap(/Game/Scene00)
+[2021.08.19-18.32.31:206][  0]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2021.08.19-18.32.31:206][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.19-18.32.31:206][  0]LogLoad: (Engine Initialization) Total time: 6.34 seconds
+[2021.08.19-18.32.31:206][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.19-18.32.31:206][  0]LogInit: First time updating LLM stats...
+[2021.08.19-18.32.31:223][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.19-18.32.31:230][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-18.32.31:395][  1]LogPython: Error: Traceback (most recent call last):
+[2021.08.19-18.32.31:395][  1]LogPython: Error:   File "C:/Users/musee/Documents/Collage3/Collage3D_V3/Content/Python/init_unreal.py", line 106, in <module>
+[2021.08.19-18.32.31:395][  1]LogPython: Error:     delete_previous_actors()
+[2021.08.19-18.32.31:395][  1]LogPython: Error:   File "C:/Users/musee/Documents/Collage3/Collage3D_V3/Content/Python/init_unreal.py", line 89, in delete_previous_actors
+[2021.08.19-18.32.31:395][  1]LogPython: Error:     actors_list = unreal.EditorLevelLibrary.get_all_level_actors()
+[2021.08.19-18.32.31:395][  1]LogPython: Error: AttributeError: module 'unreal' has no attribute 'EditorLevelLibrary'
+[2021.08.19-18.32.31:396][  1]PIE: Warning: Mobility of /Game/Scene00.Scene00:PersistentLevel.SimsCursor_Blueprint_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.08.19-18.32.31:398][  2]PIE: Warning: Mobility of /Game/Scene00.Scene00:PersistentLevel.SimsCursor_Blueprint_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.08.19-18.32.31:417][  3]PIE: Warning: Mobility of /Game/Scene00.Scene00:PersistentLevel.SimsCursor_Blueprint_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.08.19-18.32.31:429][  4]PIE: Warning: Mobility of /Game/Scene00.Scene00:PersistentLevel.SimsCursor_Blueprint_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.08.19-18.32.46:177][855]LogSlate: Window 'Collage3D_V3 (64-bit Development PCD3D_SM5) ' being destroyed
+[2021.08.19-18.32.46:177][855]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.19-18.32.46:182][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-18.32.46:182][855]LogEngine: All Windows Closed
+[2021.08.19-18.32.46:182][855]LogWindows: FPlatformMisc::RequestExit(0)
+[2021.08.19-18.32.46:182][855]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.08.19-18.32.46:182][856]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.08.19-18.32.46:182][856]LogInit: Display: PreExit Game.
+[2021.08.19-18.32.46:195][856]LogWorld: BeginTearingDown for /Game/Scene00
+[2021.08.19-18.32.46:196][856]LogWorld: UWorld::CleanupWorld for Scene00, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-18.32.46:201][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-18.32.46:547][856]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.08.19-18.32.46:547][856]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.08.19-18.32.46:547][856]LogAudio: Display: Audio Device unregistered from world 'Scene00'.
+[2021.08.19-18.32.46:548][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-18.32.46:548][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.19-18.32.46:556][856]LogAudio: Display: Audio Device Manager Shutdown
+[2021.08.19-18.32.46:558][856]LogExit: Preparing to exit.
+[2021.08.19-18.32.46:565][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-18.32.46:568][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.08.19-18.32.47:467][856]LogMoviePlayer: Shutting down movie player
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086F7100] Windows
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086F7000] Default__DeviceProfile
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086D9100] WindowsNoEditor
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086F5100] WindowsServer
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086DA900] WindowsClient
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086F6800] IOS
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086D9A00] iPadAir
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086F5900] iPadAir2
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08698300] IPadPro
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08698400] iPadAir3
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086F7300] iPadAir4
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869AC00] iPadMini2
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086F4F00] iPadMini3
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08699F00] iPadMini4
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086F6900] iPadMini5
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08693B00] iPhone6
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08693C00] iPodTouch6
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869A600] iPhone7
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869A700] iPodTouch7
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08691500] iPhone5S
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869A100] iPhone6Plus
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08692400] iPhone6S
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869B400] iPhone6SPlus
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08691D00] iPhone7Plus
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869AF00] iPhoneSE
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08692600] iPhone8
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869BA00] iPhone8Plus
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08691C00] iPhoneX
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869B700] iPhoneXS
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08691200] iPhoneXSMax
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08698200] iPhoneXR
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08692500] iPhone11
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869B000] iPhone11Pro
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08691100] iPhone11ProMax
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869B500] iPhoneSE2
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08693D00] iPhone12Mini
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869B200] iPhone12
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08691800] iPhone12Pro
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08699D00] iPhone12ProMax
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08692800] iPadPro105
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08699100] iPadPro129
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08693A00] iPadPro97
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869A800] iPadPro2_129
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08692D00] iPad5
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869A000] iPad6
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08690600] iPad7
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08699400] iPad8
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08693100] iPadPro11
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869BD00] iPadPro2_11
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08690E00] iPadPro3_129
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869B100] iPadPro4_129
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08693E00] AppleTV
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08699600] AppleTV4K
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08693F00] TVOS
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08698100] Mac
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08692700] MacClient
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08699500] MacNoEditor
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08693700] MacServer
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869B300] Linux
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086D8900] LinuxAArch64
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08769000] LinuxNoEditor
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086DBD00] LinuxAArch64NoEditor
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC08769200] LinuxClient
+[2021.08.19-18.32.47:526][856]LogDeviceProfile: Device profile begin destroy: [000001AC086D8A00] LinuxAArch64Client
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08768600] LinuxServer
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086D8500] LinuxAArch64Server
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08768900] Android
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086D9700] Android_Low
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08769700] Android_Mid
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086DB800] Android_High
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08768100] Android_Default
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086DA500] Android_Adreno4xx
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08769400] Android_Adreno5xx_Low
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086DA000] Android_Adreno5xx
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08768C00] Android_Adreno6xx
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086D9F00] Android_Adreno6xx_Vulkan
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08768D00] Android_Mali_T6xx
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086DBB00] Android_Mali_T7xx
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08698600] Android_Mali_T8xx
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086D8600] Android_Mali_G71
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08699900] Android_Mali_G72
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086DB400] Android_Mali_G72_Vulkan
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869AD00] Android_Mali_G76
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086D9500] Android_Mali_G76_Vulkan
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869B900] Android_Mali_G77
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086D9900] Android_Mali_G77_Vulkan
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08698E00] Android_Vulkan_SM5
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086D8B00] Android_PowerVR_G6xxx
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08699A00] Android_PowerVR_GT7xxx
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086D8700] Android_PowerVR_GE8xxx
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08699800] Android_PowerVR_GM9xxx
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086DBC00] Android_PowerVR_GM9xxx_Vulkan
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08698D00] Android_TegraK1
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086DBF00] Android_Unknown_Vulkan
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC0869A900] Lumin
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC086DA800] Lumin_Desktop
+[2021.08.19-18.32.47:527][856]LogDeviceProfile: Device profile begin destroy: [000001AC08699B00] HoloLens
+[2021.08.19-18.32.47:554][856]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.08.19-18.32.47:555][856]LogExit: Game engine shut down
+[2021.08.19-18.32.47:601][856]LogExit: Object subsystem successfully closed.
+[2021.08.19-18.32.47:624][856]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.08.19-18.32.47:644][856]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (518)
+[2021.08.19-18.32.47:644][856]LogModuleManager: Shutting down and abandoning module SequenceRecorder (516)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module AutomationController (514)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module Voice (510)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module AIModule (508)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module GameplayDebugger (507)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module AITestSuite (505)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module NavigationSystem (503)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module SteamVREditor (500)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module ToolMenus (499)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module OculusMR (496)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (494)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (492)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module WebMMedia (490)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (488)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (486)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module PlanarCut (482)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (480)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (478)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module CharacterAI (476)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module SessionServices (474)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (472)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module LiveCoding (470)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module LevelSequence (468)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (466)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module MovieScene (464)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (462)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module PortalServices (460)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module PortalRpc (458)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module MessagingRpc (456)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (454)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module AudioMixerCore (453)
+[2021.08.19-18.32.47:645][856]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (450)
+[2021.08.19-18.32.47:647][856]LogModuleManager: Shutting down and abandoning module ProfilerService (448)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module TaskGraph (446)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module OculusInput (444)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module Synthesis (442)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (440)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (438)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module GooglePAD (436)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (434)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module EditableMesh (432)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module CableComponent (430)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module AudioCapture (428)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (427)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (424)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module AssetTags (422)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (420)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module AppleImageUtils (418)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (416)
+[2021.08.19-18.32.47:784][856]LogModuleManager: Shutting down and abandoning module AndroidPermission (414)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module SequencerScripting (412)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module TemplateSequence (410)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module MediaCompositing (408)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module ImgMedia (406)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module MotoSynth (404)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (402)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module MeshConversion (400)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module DynamicMesh (398)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (396)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module GeometricObjects (394)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (392)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (390)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (389)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (386)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (385)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module GeometryCache (382)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (381)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (378)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (376)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (374)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (372)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module HotReload (371)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (370)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module ChaosNiagara (364)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (363)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module BlastCore (360)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module AutomationUtils (356)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module UObjectPlugin (354)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (352)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (350)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module SourceControl (349)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (346)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module Collage3D_V3 (344)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module SoundFields (342)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module SignificanceManager (340)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (338)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (336)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (334)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (330)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (328)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (326)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2021.08.19-18.32.47:785][856]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2021.08.19-18.32.48:113][856]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (320)
+[2021.08.19-18.32.48:113][856]LogModuleManager: Shutting down and abandoning module UdpMessaging (318)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (316)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (314)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (312)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (310)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (308)
+[2021.08.19-18.32.48:214][856]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (306)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (304)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (302)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (300)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MagicLeapController (298)
+[2021.08.19-18.32.48:214][856]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (296)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MagicLeapAR (294)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module AugmentedReality (293)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (290)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (288)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module Niagara (286)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module SignalProcessing (285)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module NiagaraEditor (283)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module NiagaraCore (280)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module AnimationSharing (278)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module FacialAnimation (276)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (274)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (272)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module TreeMap (271)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (268)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (266)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module Paper2D (264)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module ScriptPlugin (262)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (260)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (258)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (256)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module PacketHandler (254)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (252)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (250)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MediaAssets (248)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module Overlay (246)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module OverlayEditor (245)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module VREditor (242)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module StringTableEditor (240)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (238)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (236)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module FunctionalTesting (234)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (232)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (231)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module UMG (228)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module UMGEditor (227)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module MessageLog (223)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module SlateReflector (218)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module Slate (216)
+[2021.08.19-18.32.48:214][856]LogModuleManager: Shutting down and abandoning module SlateCore (214)
+[2021.08.19-18.32.48:215][856]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (212)
+[2021.08.19-18.32.48:215][856]LogModuleManager: Shutting down and abandoning module UnrealEd (210)
+[2021.08.19-18.32.48:215][856]LogModuleManager: Shutting down and abandoning module MRMesh (208)
+[2021.08.19-18.32.48:215][856]LogModuleManager: Shutting down and abandoning module Messaging (206)
+[2021.08.19-18.32.48:215][856]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (204)
+[2021.08.19-18.32.48:215][856]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (202)
+[2021.08.19-18.32.48:215][856]LogModuleManager: Shutting down and abandoning module XAudio2 (200)
+[2021.08.19-18.32.48:215][856]LogModuleManager: Shutting down and abandoning module Networking (198)
+[2021.08.19-18.32.48:215][856]LogModuleManager: Shutting down and abandoning module Core (196)
+[2021.08.19-18.32.48:215][856]LogModuleManager: Shutting down and abandoning module MaterialEditor (194)
+[2021.08.19-18.32.48:215][856]LogModuleManager: Shutting down and abandoning module MovieSceneTools (192)
+[2021.08.19-18.32.48:215][856]LogModuleManager: Shutting down and abandoning module EditorStyle (191)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module KismetCompiler (188)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module MeshBuilder (186)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (181)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (164)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (145)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (129)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (127)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (125)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (123)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module PhysXCooking (116)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module Chaos (114)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (112)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (111)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module AVEncoder (110)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (106)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module SteamVRInput (104)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module SteamVR (102)
+[2021.08.19-18.32.48:216][856]LogHMD: Freeing OpenVRDLLHandle.
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module OculusHMD (100)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module VariantManagerContent (98)
+[2021.08.19-18.32.48:216][856]LogModuleManager: Shutting down and abandoning module DatasmithContent (96)
+[2021.08.19-18.32.48:217][856]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2021.08.19-18.32.48:217][856]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (90)
+[2021.08.19-18.32.48:217][856]LogModuleManager: Shutting down and abandoning module ChunkDownloader (88)
+[2021.08.19-18.32.48:217][856]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2021.08.19-18.32.48:218][856]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2021.08.19-18.32.48:218][856]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2021.08.19-18.32.48:238][856]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2021.08.19-18.32.48:238][856]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.08.19-18.32.48:270][856]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2021.08.19-18.32.48:271][856]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2021.08.19-18.32.48:271][856]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module Media (69)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module AISupportModule (52)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module DesktopPlatform (50)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (48)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.08.19-18.32.48:272][856]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.08.19-18.32.48:273][856]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.08.19-18.32.48:273][856]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.08.19-18.32.48:273][856]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.08.19-18.32.48:273][856]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.08.19-18.32.48:273][856]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.08.19-18.32.48:273][856]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.08.19-18.32.48:273][856]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.08.19-18.32.48:273][856]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.08.19-18.32.48:300][856]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.08.19-18.32.48:301][856]LogD3D11RHI: Shutdown
+[2021.08.19-18.32.48:301][856]LogD3D11RHI: CleanupD3DDevice
+[2021.08.19-18.32.48:311][856]LogExit: Exiting.
+[2021.08.19-18.32.48:320][856]Log file closed, 08/19/21 14:32:48

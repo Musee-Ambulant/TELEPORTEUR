@@ -1,0 +1,14 @@
+{% extends 'main/base.html' %}
+
+{% block title%} Démarrer{% endblock %}
+
+{% block content %}
+<!--<p>start.html</p>-->
+<h1>Téléporteur des objets du groupe {{groupe.name}} </h1>
+
+<form method="post" action="/startTeleporteur/">
+    {% csrf_token %}
+    <button type="submit", name="groupe" value="{{groupe.id}}">Préparer le téléporteur</button>
+</form>
+
+{% endblock %}

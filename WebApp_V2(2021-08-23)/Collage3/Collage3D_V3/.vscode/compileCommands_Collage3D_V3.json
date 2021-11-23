@@ -1,0 +1,37 @@
+[
+	{
+		"file": "C:\\\\Users\\\\varse\\\\_documents\\\\MuseeAmbulant\\\\unreal_project\\\\Collage3D_V3\\\\Source\\\\Collage3D_V3\\\\ActorSpinComponent.cpp",
+		"command": "cl.exe @\"C:\\Users\\varse\\_documents\\MuseeAmbulant\\unreal_project\\Collage3D_V3\\.vscode\\compileCommands_Collage3D_V3\\Collage3D_V3.202.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\varse\\\\_documents\\\\MuseeAmbulant\\\\unreal_project\\\\Collage3D_V3\\\\Source\\\\Collage3D_V3\\\\ActorSpinComponent.h",
+		"command": "cl.exe @\"C:\\Users\\varse\\_documents\\MuseeAmbulant\\unreal_project\\Collage3D_V3\\.vscode\\compileCommands_Collage3D_V3\\Collage3D_V3.202.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\varse\\\\_documents\\\\MuseeAmbulant\\\\unreal_project\\\\Collage3D_V3\\\\Source\\\\Collage3D_V3\\\\Collage3D_V3.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\varse\\_documents\\MuseeAmbulant\\unreal_project\\Collage3D_V3\\.vscode\\compileCommands_Collage3D_V3\\Collage3D_V3.202.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\varse\\\\_documents\\\\MuseeAmbulant\\\\unreal_project\\\\Collage3D_V3\\\\Source\\\\Collage3D_V3\\\\Collage3D_V3.cpp",
+		"command": "cl.exe @\"C:\\Users\\varse\\_documents\\MuseeAmbulant\\unreal_project\\Collage3D_V3\\.vscode\\compileCommands_Collage3D_V3\\Collage3D_V3.202.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\varse\\\\_documents\\\\MuseeAmbulant\\\\unreal_project\\\\Collage3D_V3\\\\Source\\\\Collage3D_V3\\\\Collage3D_V3.h",
+		"command": "cl.exe @\"C:\\Users\\varse\\_documents\\MuseeAmbulant\\unreal_project\\Collage3D_V3\\.vscode\\compileCommands_Collage3D_V3\\Collage3D_V3.202.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\varse\\\\_documents\\\\MuseeAmbulant\\\\unreal_project\\\\Collage3D_V3\\\\Source\\\\Collage3D_V3\\\\Collage3D_V3GameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\varse\\_documents\\MuseeAmbulant\\unreal_project\\Collage3D_V3\\.vscode\\compileCommands_Collage3D_V3\\Collage3D_V3.202.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\varse\\\\_documents\\\\MuseeAmbulant\\\\unreal_project\\\\Collage3D_V3\\\\Source\\\\Collage3D_V3\\\\Collage3D_V3GameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\varse\\_documents\\MuseeAmbulant\\unreal_project\\Collage3D_V3\\.vscode\\compileCommands_Collage3D_V3\\Collage3D_V3.202.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]

@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Collage3D_V3Editor Editor Win64 Development (Collage3D_V3)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\varse\\_documents\\MuseeAmbulant\\unreal_project\\Collage3D_V3\\.vscode\\compileCommands_Collage3D_V3.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

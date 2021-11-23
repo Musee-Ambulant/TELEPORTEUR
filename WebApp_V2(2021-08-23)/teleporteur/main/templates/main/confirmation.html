@@ -1,0 +1,21 @@
+{% extends 'main/base.html' %}
+
+{% block title%} confirmation {% endblock %}
+
+
+{% block content %}
+
+<h2>Voulez-vous vraiment retirer {{ami.name}} de la liste </h2>
+
+
+<form method="post" action="/confirmChoice/">
+    {% csrf_token %}
+    <button type="submit", name="confirm" value="{{ami.id}}">Oui</button>
+    <input type=button value="Non" onClick="javascript:history.go(-1);">
+<!--    <button type="submit", name="confirm" value="no">Non</button>-->
+
+</form>
+
+
+
+{% endblock %}

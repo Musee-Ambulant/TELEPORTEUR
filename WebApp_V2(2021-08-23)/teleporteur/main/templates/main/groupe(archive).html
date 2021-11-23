@@ -1,0 +1,30 @@
+{% extends 'main/base.html' %}
+{% load static %}
+
+{% block title%} Groupe {% endblock %}
+
+{% block content %}
+<h1> École :
+    {{ecole.name}} <br>
+</h1>
+<h2>   Groupe :  {{groupe.name}} <br>
+</h2>
+    {% for ami in groupe.ami_set.all %}
+      <h3>{{ami.name}}</h3>
+            <img src="{% static '' %}{{ami.gif_path}}" width="200" height="200">
+            <button type="button">
+            <a href="/{{ecole.id}}/{{groupe.id}}/{{ami.id}}">voir details</a>
+            </button>
+
+    {% endfor %}
+
+<br>
+
+<br><br><br><br><br>
+
+<!--<form method="post" action="/confirmGroupe/">-->
+<!--    {% csrf_token %}-->
+<!--    <button type="submit", name="groupe" value="{{groupe.id}}">Suprimmer le groupe</button>-->
+<!--</form>-->
+
+{% endblock %}

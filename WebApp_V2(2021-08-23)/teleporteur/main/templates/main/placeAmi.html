@@ -1,0 +1,21 @@
+{% extends 'main/base.html' %}
+{% load static %}
+
+{% block title%} Nouvel objet {% endblock %}
+
+{% block content %}
+
+<h1>   Placez l'objet de {{ami.name}} <br>
+</h1>
+<br>
+
+<form method="post" action="/scan/">
+    {% csrf_token %}
+    <button type="submit", name="ami" value="{{ami.id}}">Téléporter {{ami.name}}</button>
+</form>
+<br>
+<p>Placez l'objet au centre de la table tournante</p>
+    <img src="{% static 'main/img/example1.jpg' %}" width="200" height="150">
+
+
+{% endblock %}

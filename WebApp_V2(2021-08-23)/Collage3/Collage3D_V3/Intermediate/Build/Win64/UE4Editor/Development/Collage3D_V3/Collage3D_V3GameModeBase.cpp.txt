@@ -1,0 +1,7 @@
+C:\Users\varse\_documents\MuseeAmbulant\unreal_project\Collage3D_V3\Intermediate\Build\Win64\UE4Editor\Development\Collage3D_V3\Definitions.Collage3D_V3.h
+C:\Users\varse\_documents\MuseeAmbulant\unreal_project\Collage3D_V3\Source\Collage3D_V3\Collage3D_V3GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\varse\_documents\MuseeAmbulant\unreal_project\Collage3D_V3\Intermediate\Build\Win64\UE4Editor\Inc\Collage3D_V3\Collage3D_V3GameModeBase.generated.h
